@@ -1,0 +1,46 @@
+	family-font {
+				font-family: Georgia;
+			}
+			h1 {
+				color: #006600;
+				text-align: center;
+			}
+
+			h4 {
+				text-align: center;
+			}
+			p {
+				line-height: 19px;
+			}
+
+			a:hover {
+				text-decoration: none;
+			}
+
+			span {
+				text-transform: uppercase;
+			}
+
+
+<!--
+h1{
+    color: darkgreen;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    line-height: 19px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+span{
+    text-transform: uppercase;
+}
+
+-->
